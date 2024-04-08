@@ -11,46 +11,71 @@
 }
 .navbar-nav li a {
   float: right;
-  color: #fff !important;
+  color: #013f73!important;
 }
-.navbar-brand img
-{
-    width: 150px;
-    margin-left: 30px;;
+.navbar-brand img {
+  width: 150px;
+  margin-left: 30px;
 }
-.navbar-toggler
-{
-    border: none!important;
-    outline: none!important;
+.navbar-toggler {
+  border: none !important;
+  outline: none !important;
 }
-nav .fa-bars
-{
-   color: #fff!important;
-   font-size: 26px; 
+nav .fa-bars {
+    color: #013f73!important;
+  font-size: 26px;
 }
 /*--Welcome Text ----*/
-.welcome
-{
-    padding: 50px 100px;
-    margin-top: -140px;
-    background-color: #fff;
-    box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
+.welcome {
+  padding: 50px 100px;
+  margin-top: -140px;
+  background-color: #fff;
+  box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+  color: #013f73;
 }
-.welcome h1{
-    color: #333;
+.welcome h1 {
+    color: #013f73;
 }
 /*--About First-*/
-#first
-{
-    padding-top: 100px;
-    padding-bottom: 100px;
+#first {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #013f73;
 }
-#first .col-md-6
-{
-    padding: 20px 10px;
+#first .col-md-6 {
+  padding: 20px 10px;
 }
 
-#first h3
-{
-    margin: 20px auto;
+#first h3 {
+  margin: 20px auto;
 }
+
+#footer {
+    margin-top: 80px;
+    padding: 100px;
+    background-color: #efefef;
+    color: #013f73;
+  }
+  
+  #footer h1 {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  
+  #footer p {
+    font-size: 15px;
+  }
+  
+  #footer i
+  {
+      padding-right: 10px;
+      font-size: 15px;
+  }
+
+  #footer a
+  {
+    text-decoration: none;
+    color:#013f73;
+  }
+  
