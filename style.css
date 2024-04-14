@@ -11,7 +11,7 @@
 }
 .navbar-nav li a {
   float: right;
-  color: #fff!important;
+  color: #fff !important;
 }
 .navbar-brand img {
   width: 150px;
@@ -22,7 +22,7 @@
   outline: none !important;
 }
 nav .fa-bars {
-    color: #013f73!important;
+  color: #013f73 !important;
   font-size: 26px;
 }
 /*--Welcome Text ----*/
@@ -34,7 +34,7 @@ nav .fa-bars {
   color: #013f73;
 }
 .welcome h1 {
-    color: #013f73;
+  color: #013f73;
 }
 /*--About First-*/
 #first {
@@ -51,39 +51,44 @@ nav .fa-bars {
 }
 
 #footer {
-    margin-top: 80px;
-    padding: 100px;
-    background-color: #efefef;
-    color: #013f73;
-  }
-  
-  #footer h1 {
-    font-size: 20px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-  }
-  
-  #footer p {
-    font-size: 15px;
-  }
-  
-  #footer i
-  {
-      padding-right: 10px;
-      font-size: 15px;
-  }
+  margin-top: 80px;
+  padding: 100px;
+  background-color: #efefef;
+  color: #013f73;
+}
 
-  #footer a
-  {
-    text-decoration: none;
-    color:#013f73;
-  }
+#footer h1 {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
 
-  #resources-nav 
-  {
-    text-decoration: none;
-    color:#013f73;
-    font-size: large;
-    
-  }
-  
+#footer p {
+  font-size: 15px;
+}
+
+#footer i {
+  padding-right: 10px;
+  font-size: 15px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #013f73;
+}
+
+#resources-nav {
+  text-decoration: none;
+  color: #013f73;
+  font-size: large;
+}
+
+#container-fluid
+{
+  align-items: center;
+}
+
+.carousel {
+  width: 50%;
+  height: 60vh;
+}
